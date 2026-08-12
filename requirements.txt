@@ -1,0 +1,7 @@
+chess==1.10.0
+SpeechRecognition==3.10.0
+gTTS==2.5.0
+Pillow==10.0.0
+# rpi-rgb-led-matrix — instalar manualmente desde GitHub:
+# https://github.com/hzeller/rpi-rgb-led-matrix
+# Stockfish — instalar con: sudo apt install stockfish
